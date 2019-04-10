@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 76968,
-  "expoServerNgrokUrl": "https://6i-phj.anonymous.planosearch.exp.direct",
-  "packagerNgrokUrl": "https://packager.6i-phj.anonymous.planosearch.exp.direct",
-  "ngrokPid": 76990,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }

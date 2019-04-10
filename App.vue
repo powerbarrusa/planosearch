@@ -4,12 +4,13 @@
     <text class="mantra">For every home search</text>
     <text-input
       class="login"
-      placeholder="Username"
+      placeholder=" Username"
       v-model="username"
     />
     <text-input
       class="login"
-      placeholder="Password"
+      type="password"
+      placeholder=" Password"
       v-model="password"
     />
     <touchable-opacity
@@ -22,6 +23,7 @@
 </template>
 
 <script>
+
 export default {
   data() {
     return {
@@ -35,6 +37,7 @@ export default {
     }
   }
 }
+
 </script>
  
 <style>
@@ -49,7 +52,6 @@ export default {
   color: orangered;
   font-size: 50;
   margin-bottom: 100;
-  /* font-family: "Times"; */
 }
 
 .mantra {
